@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @adh-arsh
-- 👀 I’m interested in pretty much everything
-- 🌱 I’m currently learning flutter, AI and whatever tickles my spine.
-- 💞️ I’m looking to collaborate on anything which is super-crazy and alien.
-- 📫 How to reach me ... dont!...please...if you really wanna..then @adharsh.memes in instagram
-
-<!---
-adh-arsh/adh-arsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there,
+I am a full stack developer working on applications based on .NET and React. 
+Also, writing few automation and data analysis scripts using python.
+Also, maintaining few servers and IT infra
+Also, enjoying the process of problem solving
