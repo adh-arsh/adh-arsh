@@ -142,7 +142,6 @@ I enjoy solving complex technical problems, experimenting with emerging technolo
 
 ## 📫 Contact
 - Email: **developer.adharsh@gmail.com**
-- GitHub: https://github.com/yourusername
 
 ---
 
